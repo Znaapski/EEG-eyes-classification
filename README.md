@@ -1,5 +1,7 @@
 # EEG-eyesclosed-Detection
- UCLouvain EEG analysis and eyes closed and open prediction
+ UCLouvain EEG analysis and eyes closed and open prediction.
+
+This repo contains many notebooks, our report and no data.
 
 Python project done by Erasmus students Tomás dos Santos Talento and Marc Phillipe Marburger.
 
